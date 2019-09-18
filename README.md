@@ -1,1 +1,1 @@
-## Redux Example
+## Redux Example Counter
